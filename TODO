@@ -1,0 +1,7 @@
+TODO
+===============================================================================
+* Move to AJAX instead of full page load for the user front end (admin can stay as is for now)
+* Responsive/Mobile site design
+* Using HTML5 and possibly Javascript MP3 playback instead of relying on Flash
+* User login with each user having ability to manage multiple profiles
+* Update CakePHP & fix any breakages that causes / Possibly remove the need for CakePHP all together to make it lighter
